@@ -47,7 +47,7 @@ body = "Hello, this is a test mail."
 # sender and receiver details
 sender = "xxhelloxx101@gmail.com"
 password = "print(hello)"
-receiver = "reddy.bharat.11@gmail.com"
+receiver = "meghnasaikia2008@gmail.com"
 
 
 if __name__ == "__main__":
