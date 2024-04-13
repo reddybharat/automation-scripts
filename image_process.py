@@ -1,3 +1,6 @@
+#this script is good for image preprocessing
+#e.g. when you need multiple images in a certain size, filetype etc
+
 from PIL import Image
 import os
 
