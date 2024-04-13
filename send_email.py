@@ -45,10 +45,10 @@ subject = "TEST SCRIPT"
 body = "Hello, this is a test mail."
 
 # sender and receiver details
-sender = "xxhelloxx101@gmail.com"
+sender = "sender@gmail.com"
 password = "print(hello)"
-receiver = "meghnasaikia2008@gmail.com"
-
+receiver = "receiver@gmail.com"
+#please change the receiver accordingly to receive the mails
 
 if __name__ == "__main__":
     mail = generate(sender, receiver, subject, body)
